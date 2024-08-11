@@ -52,7 +52,7 @@ To satisfy my eagerness for knowledge, I enroll in online courses in areas of Ar
 
 
 ::::{grid}
-:gutter: 8
+:gutter: 3
 
 :::{grid-item-card} Azure Data Scientist Associate:
 Azure Data Scientist Associate
